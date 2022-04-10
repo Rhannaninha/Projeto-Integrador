@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(193, 205, 211);
+    text-align: center;
+    padding: 16px;
+}
+
+#cabeca {
+    background-color: rgb(71, 200, 151);
+    text-align: center;
+}
+
+#logo {
+    width: 20%;
+    height: 20%;
+    padding-bottom: 10px;
+}
+
+.aulas {
+    background-color: rgb(13, 128, 173);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+p {
+    padding: 5px;
+}
+
+.titulo {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.aula {
+    border: solid;
+}
+
+.subtitulo {
+    font-size: 20px;
+}
+
+footer {
+    padding: 26px;
+    background-color: rgb(193, 205, 211);
+}
+
+input[type=text] {
+    padding: 2px;
+}
+
+input[type=button] {
+    padding: 2px;
+}
